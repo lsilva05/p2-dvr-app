@@ -1,0 +1,7 @@
+.tabs dd {
+position: relative;
+margin-bottom: 0 !important;
+top: 1px;
+float: left;
+width: 90px;
+}
