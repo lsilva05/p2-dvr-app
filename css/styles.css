@@ -11,3 +11,7 @@ width: 90px;
 	background: pink;
 	transition: background .5;
 }
+
+.container{
+	margin: 0 auto;
+}
